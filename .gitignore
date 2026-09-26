@@ -1,0 +1,6 @@
+rag_assets/
+__pycache__/
+*.pyc
+.env
+.venv/
+.DS_Store
