@@ -1,0 +1,19 @@
+# Streamlit app
+streamlit
+numpy
+
+# Retrieval + embeddings + vector store
+langchain-huggingface
+langchain-community
+langchain-groq
+sentence-transformers
+faiss-cpu
+groq
+
+# Notebook: data prep, evaluation, plots
+pandas
+scikit-learn
+matplotlib
+torch
+kagglehub
+langchain-text-splitters
